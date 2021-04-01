@@ -17,9 +17,12 @@
   font-family: fantasy, cursive;
 }
 
-@media (max-width:768px) {
-.header { text-align: center;
-}
+@media (max-width: 768px) {
+
+  .header {
+    text-align: center;
+  }
+
 }
 .content-wraper {
   display: block;
