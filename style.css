@@ -149,11 +149,11 @@ ul {
   display: none;
 }
 
-.edit-mode .task__input {
+.todo-item_edit .task__input {
   display: inline-block;
   width: 224px;
 }
 
-.edit-mode .label {
+.todo-item_edit .label {
   display: none;
 }
